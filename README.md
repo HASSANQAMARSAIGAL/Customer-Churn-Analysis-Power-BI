@@ -19,6 +19,5 @@ This Power BI project analyzes customer churn data to help identify trends and f
 - DAX measures for KPIs and calculated columns
 - Slicers and drill-through for interactivity
 
-## 📁 File
-- `Churn Project.pbix`
+
 
